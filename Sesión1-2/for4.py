@@ -1,5 +1,5 @@
 def tabla_multiplicar(num): 
-        for i in range(1, 11):
+        for i in range(1, 13):
             print(f"{num} x {i} = {num * i}")
             
 def main():
